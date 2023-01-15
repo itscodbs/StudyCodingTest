@@ -1,0 +1,26 @@
+# 2022
+# Baekjoon_Silver1_17615_Greedy_볼모으기
+
+import sys
+
+n = int(sys.stdin.readline().strip())
+balls = str(sys.stdin.readline().strip())
+cnt = []
+
+# 우측으로 레드 모으기
+rexplore = balls.rstrip('R')
+cnt.append(rexplore.count('R'))
+
+# 우측으로 블루 모으기
+rexplore = balls.rstrip('B')
+cnt.append(rexplore.count('B'))
+
+# 좌측으로 레드 모으기
+lexplore = balls.lstrip('R')
+cnt.append(lexplore.count('R'))
+
+# 좌측으로 블루 모으기
+lexplore = balls.lstrip('B')
+cnt.append(lexplore.count('B'))
+
+print(min(cnt))
