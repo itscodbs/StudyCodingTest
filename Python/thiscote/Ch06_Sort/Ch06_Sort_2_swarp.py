@@ -1,5 +1,5 @@
 # 20220620
-# Ch06_Sort_swarp
+# Ch06_Sort_2_swarp.py
 
 # 0 인덱스와 1 인덱스의 원소 교체하기
 array = [3, 5]
