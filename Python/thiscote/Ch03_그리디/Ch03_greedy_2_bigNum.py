@@ -1,5 +1,5 @@
 # 20220527
-# Ch03_그리디_2_큰수의법칙
+# Ch03_greedy_2_bigNum.py
 
 # 예시1)
 n, m, k = map(int, input().split()) # 5, 8, 3
