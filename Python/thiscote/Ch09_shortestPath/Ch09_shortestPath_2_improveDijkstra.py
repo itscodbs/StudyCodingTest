@@ -3,7 +3,7 @@
 
 import heapq
 import sys
-input = sys.stdin.readline # 빠르게 입력
+input = sys.stdin.readline # 빠르게 입력받기
 INF = int(1e9) # 무한을 의미하는 값으로 10억을 설정
 
 # 노드의 개수, 간선의 개수 입력받기
