@@ -1,5 +1,5 @@
 # 20220620
-# Ch05_DFSBFS_10_freezeDrink
+# Ch05_DFSBFS_10_freezeDrink.py
 
 # N, M을 공백으로 구분하여 입력받기
 n, m = map(int, input().split())
