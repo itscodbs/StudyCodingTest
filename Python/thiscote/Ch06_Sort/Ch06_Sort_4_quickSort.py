@@ -1,5 +1,5 @@
 # 20220628
-# Ch06_Sort_quickSort
+# Ch06_Sort_4_quickSort.py
 
 array = [5, 7, 9, 0, 3, 1, 6, 2, 4, 8]
 
