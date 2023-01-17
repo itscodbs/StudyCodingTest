@@ -1,5 +1,5 @@
 # 20220627
-# Ch06_Sort_insertionSort
+# Ch06_Sort_3_insertionSort.py
 
 array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8]
 
