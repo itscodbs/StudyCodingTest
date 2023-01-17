@@ -1,5 +1,5 @@
 #20220620
-# Ch06_Sort_selectionSort
+# Ch06_Sort_1_selectionSort.py
 
 array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8]
 
