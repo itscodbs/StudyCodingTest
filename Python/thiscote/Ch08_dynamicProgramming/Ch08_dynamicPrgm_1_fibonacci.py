@@ -1,5 +1,5 @@
 # 20220711
-# Ch08_dynamicProgramming_1_fibonacci.py
+# Ch08_dynamicPrgm_1_fibonacci.py
 
 # 피보나치 함수 (Fibonacci Function)를 재귀함수로 표현
 def fibo(x):
