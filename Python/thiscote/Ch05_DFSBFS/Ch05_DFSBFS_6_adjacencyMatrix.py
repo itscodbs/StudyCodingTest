@@ -1,5 +1,5 @@
 # 20220620
-# Ch05_DFSBFS_6_adjacencyMatrix
+# Ch05_DFSBFS_6_adjacencyMatrix.py
 
 INF = 999999999 # 무한의 비용 선언
 
