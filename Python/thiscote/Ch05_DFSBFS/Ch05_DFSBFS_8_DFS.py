@@ -1,5 +1,5 @@
 # 20220620
-# Ch05_DFSBFS_8_DFS (재귀함수 이용)
+# Ch05_DFSBFS_8_DFS.py (재귀함수 이용)
 
 # DFS 메소드 정의
 def dfs(graph, v, visited):
