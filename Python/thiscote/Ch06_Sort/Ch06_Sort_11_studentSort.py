@@ -1,5 +1,5 @@
 # 20220701
-# Ch06_Sort__11_studentSort.py
+# Ch06_Sort_11_studentSort.py
 
 # N을 입력받기
 n = int(input())
