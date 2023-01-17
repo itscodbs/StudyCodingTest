@@ -1,5 +1,5 @@
 # 20220527
-# Ch03_그리디_1_거스름돈
+# Ch03_greedy_1_coinChange.py
 
 n = 1260
 cnt = 0
