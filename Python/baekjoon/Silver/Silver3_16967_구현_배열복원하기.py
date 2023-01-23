@@ -20,6 +20,17 @@ for i in range(H - X):
 for k in range(H):
     print(*arrs[k][0:W])
 
+# 입력
+# 2 4 1 1
+# 1 2 3 4 0
+# 5 7 9 11 4
+# 0 5 6 7 8
+
+# 출력
+# 1 2 3 4
+# 5 6 7 8
+
+# 시행착오2
 # import sys
 # read = sys.stdin.readline
 
@@ -45,17 +56,7 @@ for k in range(H):
 #         print(graphA[i][j], end=" ")
 #     print()
 
-# 입력
-# 2 4 1 1
-# 1 2 3 4 0
-# 5 7 9 11 4
-# 0 5 6 7 8
-
-# 출력
-# 1 2 3 4
-# 5 6 7 8
-
-# 시행착오
+# 시행착오1
 # H, W, X, Y = list(map(int, input().split()))
 # HX = H + X
 # WY = W + Y
