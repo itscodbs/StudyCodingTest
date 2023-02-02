@@ -19,4 +19,4 @@ print(*s)
 # 출력
 # 2 3 5 9
 
-# 중복체크 in list면 continue
+# 중복체크 : in list면 continue 하는 방법도 생각
